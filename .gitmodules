@@ -1,3 +1,12 @@
 [submodule "com.eclipsesource.j2v8"]
 	path = com.eclipsesource.j2v8
 	url = https://github.com/brucej72/com.eclipsesource.j2v8.git
+[submodule "io.thingstream.nodered.service"]
+	path = io.thingstream.nodered.service
+	url = https://github.com/brucej72/io.thingstream.nodered.service.git
+[submodule "io.thingstream.nodered.runtime"]
+	path = io.thingstream.nodered.runtime
+	url = https://github.com/brucej72/io.thingstream.nodered.runtime.git
+[submodule "io.thingstream.osgi"]
+	path = io.thingstream.osgi
+	url = https://github.com/brucej72/io.thingstream.osgi.git
